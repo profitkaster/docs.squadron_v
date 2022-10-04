@@ -82,8 +82,6 @@ In developing
 
 Supply: 4444
 
-#### **Info**
-
 ## The Third collection
 
 ### Chinese Air Force
